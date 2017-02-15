@@ -1,8 +1,8 @@
 # JAXRSJsonCRUDExampleContatos
-Projeto CRUD simples com JAXRS + Json
+Project CRUD simple with Java 1.7 + REST + Json + Maven.
 
-Para testar um método GET por exemplo, acessar a URL http://localhost:8080/JAXRSJsonCRUDExample/rest/contatos através de uma aplicação Cliente REST como por exemplo Postman ou Advanced REST.
+Execute test in address: http://localhost:8080/JAXRSJsonCRUDExample/rest/contatos 
 
-Fonte: http://www.java2blog.com/2016/03/restful-web-services-jaxrs-crud-example.html
+Learned in the font: http://www.java2blog.com/2016/03/restful-web-services-jaxrs-crud-example.html
 
 
