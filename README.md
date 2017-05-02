@@ -1,4 +1,4 @@
-# JAXRSJsonCRUDExampleContatos
+# CRUD-Contatos-Java-REST
 Project CRUD simple with Java 1.7 + REST + Json + Maven.
 
 Execute test in address: http://localhost:8080/JAXRSJsonCRUDExample/rest/contatos 
